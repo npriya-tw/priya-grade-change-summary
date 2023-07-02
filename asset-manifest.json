@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/priya-grade-change-summary/static/css/main.566726d5.css",
+    "main.js": "/priya-grade-change-summary/static/js/main.03827897.js",
+    "static/js/787.22ec8107.chunk.js": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js",
+    "static/media/hari.png": "/priya-grade-change-summary/static/media/hari.014cd0d77e5b9abc543f.png",
+    "static/media/kavitha.png": "/priya-grade-change-summary/static/media/kavitha.77e9065178c47ec91c8d.png",
+    "static/media/mags.png": "/priya-grade-change-summary/static/media/mags.ecadf47b57c74dc6fdb9.png",
+    "static/media/PriyaProfileCard.jpeg": "/priya-grade-change-summary/static/media/PriyaProfileCard.a10aa2e44bde0786c0c6.jpeg",
+    "static/media/thoughtworks_logo.png": "/priya-grade-change-summary/static/media/thoughtworks_logo.6e26fb69d94705dbc37d.png",
+    "static/media/karan.png": "/priya-grade-change-summary/static/media/karan.140fa59a245010de51e0.png",
+    "static/media/amey.png": "/priya-grade-change-summary/static/media/amey.9a7e2ed83e2c7bb522c7.png",
+    "static/media/raghu.png": "/priya-grade-change-summary/static/media/raghu.4febd5f9e995518d542c.png",
+    "static/media/avni.png": "/priya-grade-change-summary/static/media/avni.5ec4023eb5ccc80d3a13.png",
+    "static/media/rupali.png": "/priya-grade-change-summary/static/media/rupali.8c7c54ac1556ffb4ea8e.png",
+    "static/media/suresh.png": "/priya-grade-change-summary/static/media/suresh.3071d5178f053a4bdd59.png",
+    "static/media/saptarshi.png": "/priya-grade-change-summary/static/media/saptarshi.561db1a11d704d53ca32.png",
+    "static/media/geetha_pic.jpeg": "/priya-grade-change-summary/static/media/geetha_pic.3c1b9f5920df529f308d.jpeg",
+    "static/media/raghav.png": "/priya-grade-change-summary/static/media/raghav.a2b590e0e3956ff99deb.png",
+    "static/media/ram.png": "/priya-grade-change-summary/static/media/ram.ed289cf24410be8f64c8.png",
+    "index.html": "/priya-grade-change-summary/index.html",
+    "main.566726d5.css.map": "/priya-grade-change-summary/static/css/main.566726d5.css.map",
+    "main.03827897.js.map": "/priya-grade-change-summary/static/js/main.03827897.js.map",
+    "787.22ec8107.chunk.js.map": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566726d5.css",
+    "static/js/main.03827897.js"
+  ]
+}
