@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/priya-grade-change-summary/static/css/main.9cc587e3.css",
-    "main.js": "/priya-grade-change-summary/static/js/main.2c82f9ae.js",
+    "main.js": "/priya-grade-change-summary/static/js/main.eb3d3ac8.js",
     "static/js/787.22ec8107.chunk.js": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js",
     "static/media/hari.png": "/priya-grade-change-summary/static/media/hari.014cd0d77e5b9abc543f.png",
     "static/media/kavitha.png": "/priya-grade-change-summary/static/media/kavitha.77e9065178c47ec91c8d.png",
@@ -20,11 +20,11 @@
     "static/media/ram.png": "/priya-grade-change-summary/static/media/ram.ed289cf24410be8f64c8.png",
     "index.html": "/priya-grade-change-summary/index.html",
     "main.9cc587e3.css.map": "/priya-grade-change-summary/static/css/main.9cc587e3.css.map",
-    "main.2c82f9ae.js.map": "/priya-grade-change-summary/static/js/main.2c82f9ae.js.map",
+    "main.eb3d3ac8.js.map": "/priya-grade-change-summary/static/js/main.eb3d3ac8.js.map",
     "787.22ec8107.chunk.js.map": "/priya-grade-change-summary/static/js/787.22ec8107.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc587e3.css",
-    "static/js/main.2c82f9ae.js"
+    "static/js/main.eb3d3ac8.js"
   ]
 }
