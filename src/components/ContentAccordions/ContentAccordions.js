@@ -2793,51 +2793,67 @@ function ContentAccordions() {
                       </span>
                     </p>
                   </li>
-                </ul>
 
-                <p
-                  dir="ltr"
-                  style={{
-                    lineHeight: "1.96364",
-                    marginTop: "0pt",
-                    marginBottom: "0pt",
-                  }}
-                >
-                  <br />
-                </p>
-                <span
-                  style={{
-                    fontSize: "12pt",
-                    fontFamily: "Arial",
-                    color: "rgb(32, 33, 36)",
-                    backgroundColor: "transparent",
-                    fontWeight: 700,
-                    fontVariantNumeric: "normal",
-                    fontVariantEastAsian: "normal",
-                    fontVariantAlternates: "normal",
-                    verticalAlign: "baseline",
-                    whiteSpaceCollapse: "preserve",
-                  }}
-                >
-                  Mentoring underprivileged college students:&nbsp;
-                </span>
-                <span
-                  style={{
-                    fontSize: "12pt",
-                    fontFamily: "Arial",
-                    color: "rgb(32, 33, 36)",
-                    backgroundColor: "transparent",
-                    fontVariantNumeric: "normal",
-                    fontVariantEastAsian: "normal",
-                    fontVariantAlternates: "normal",
-                    verticalAlign: "baseline",
-                    whiteSpaceCollapse: "preserve",
-                  }}
-                >
-                  I've also mentored the students in tech who have very little
+                    <li
+                        dir="ltr"
+                        style={{
+                            listStyleType: "disc",
+                            fontSize: "12pt",
+                            fontFamily: "Arial",
+                            color: "rgb(32, 33, 36)",
+                            backgroundColor: "transparent",
+                            fontWeight: 700,
+                            fontVariantNumeric: "normal",
+                            fontVariantEastAsian: "normal",
+                            fontVariantAlternates: "normal",
+                            verticalAlign: "baseline",
+                            whiteSpace: "pre",
+                        }}
+                        aria-level={1}
+                    >
+                    <p
+                        dir="ltr"
+                        style={{
+                            lineHeight: "1.96364",
+                            marginTop: "0pt",
+                            marginBottom: "0pt",
+                        }}
+                        role="presentation"
+                    >
+                      <span
+                          style={{
+                              fontSize: "12pt",
+                              fontFamily: "Arial",
+                              backgroundColor: "transparent",
+                              fontVariantNumeric: "normal",
+                              fontVariantEastAsian: "normal",
+                              fontVariantAlternates: "normal",
+                              verticalAlign: "baseline",
+                              textWrap: "wrap",
+                          }}
+                      >
+                        Mentoring underprivileged college students:&nbsp;
+                      </span>
+                      <span
+                          style={{
+                              fontSize: "12pt",
+                              fontFamily: "Arial",
+                              backgroundColor: "transparent",
+                              fontWeight: 400,
+                              fontVariantNumeric: "normal",
+                              fontVariantEastAsian: "normal",
+                              fontVariantAlternates: "normal",
+                              verticalAlign: "baseline",
+                              textWrap: "wrap",
+                          }}
+                      >
+                        I've also mentored the students in tech who have very little
                   exposure and lack of guidance. I've mentored and tutored them
                   and provided necessary support for their technical growth
-                </span>
+                      </span>
+                    </p>
+                  </li>
+                </ul>
               </span>
               <br />
             </div>
