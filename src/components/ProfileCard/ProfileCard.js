@@ -1,5 +1,5 @@
 import React from "react";
-import priyaProfilePicfrom from '../../assets/img/PriyaProfileCard.jpeg'
+import priyaProfilePicfrom from '../../assets/img/PriyaProfileCardCopy.jpeg'
 import twLogo from '../../assets/img/thoughtworks_logo.png'
 
 function ProfileCard() {

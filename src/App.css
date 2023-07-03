@@ -87,6 +87,7 @@ img {
   position: relative;
   z-index: 1;
   padding: 30px;
+  height: 250px;
   text-align: right;
   -webkit-transition-duration: 500ms;
   transition-duration: 500ms;
@@ -320,27 +321,27 @@ h6 {
 .about-list label {
   color: #20247b;
   font-weight: 600;
-  width: 120px;
+  width: 180px;
   margin: 0;
   position: relative;
 }
-.about-list label:after {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 11px;
-  width: 1px;
-  height: 12px;
-  background: #20247b;
-  -moz-transform: rotate(15deg);
-  -o-transform: rotate(15deg);
-  -ms-transform: rotate(15deg);
-  -webkit-transform: rotate(15deg);
-  transform: rotate(15deg);
-  margin: auto;
-  opacity: 0.5;
-}
+/*.about-list label:after {*/
+/*  content: "";*/
+/*  position: absolute;*/
+/*  top: 0;*/
+/*  bottom: 0;*/
+/*  right: 11px;*/
+/*  width: 1px;*/
+/*  height: 12px;*/
+/*  background: #20247b;*/
+/*  -moz-transform: rotate(15deg);*/
+/*  -o-transform: rotate(15deg);*/
+/*  -ms-transform: rotate(15deg);*/
+/*  -webkit-transform: rotate(15deg);*/
+/*  transform: rotate(15deg);*/
+/*  margin: auto;*/
+/*  opacity: 0.5;*/
+/*}*/
 .about-list p {
   margin: 0;
   font-size: 16px;
