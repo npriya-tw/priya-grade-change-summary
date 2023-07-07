@@ -9,7 +9,7 @@ function PageInfoPanel() {
                 focussed on cutting edge systems
             </h6>
             <p>
-                As an <mark>aspirant data engineer</mark>, I have reached great milestones throughout my journey. I have designed and developed scalable big data processing pipelines using distributed computing
+                As an <mark>aspirant data engineer</mark>, I have reached great milestones throughout my journey    . I have designed and developed scalable big data processing pipelines using distributed computing
                 systems like apache spark. I have created ETL workflows to extract data from different sources,
                 transform it into a standardized format and load it into data warehouse for further analysis. I have
                 built customer 360 profile which gives a complete view of a customer’s data and snapshots of the
@@ -47,8 +47,8 @@ function PageInfoPanel() {
                         <p>+91-8124774706</p>
                     </div>
                     <div class="media">
-                        <label>Thoughtworker from</label>
-                        <p>Dec 2020</p>
+                        <label>Projects</label>
+                        <p>IDFC HPE (Hyper Personalisation Engine), EFL (Eureka Forbes Limited) - Data Stream</p>
                     </div>
                 </div>
             </div>
